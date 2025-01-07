@@ -1,4 +1,4 @@
-GraalVM 
+
 **What is GraalVM?**
 
 GraalVM is a **Java Development Kit (JDK)** written in Java, providing a high-performance environment for developing and running applications. It makes your programs faster and allows you to run code written in different programming languages together. Additionally, GraalVM lets you create super-fast, lightweight, standalone applications (called **native images**) from your Java programs.
